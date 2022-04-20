@@ -2,7 +2,7 @@
 
 For detailed description, checkout the [Medium artical](https://medium.com/@lishuai.jing/deploy-streamlit-app-to-heroku-4e42ab198702).
 
-Pre-requsit:
+Prerequisite:
 
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli)
